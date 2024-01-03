@@ -6,6 +6,4 @@ This course will teach you how to read and write code as well as how to test and
 
 Whereas CS50x (the original CS50 course) itself focuses on computer science more generally as well as programming with C, Python, SQL, and JavaScript, this course, aka CS50P, is entirely focused on programming with Python. You can take CS50P before CS50x, during CS50x, or after CS50x. But for an introduction to computer science itself, you should still take CS50x!
 
-[CS50P Video Course](https://www.youtube.com/watch?v=nLRL_NcnK-4)
-
-- Week 1: Functions & Variables (03.01.2024)
+[CS50P Course](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
